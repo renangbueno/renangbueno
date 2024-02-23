@@ -1,8 +1,8 @@
-# Renan Gabriel Bueno - Desenvolvedor de Software
+# Renan Gabriel Bueno - Estudante de Engenharia de Software
 
-Olá! Sou Renan Gabriel Bueno.
+Olá! Sou o Renan!
 Soluciono problemas desde 2004.
-Atualmente estagiário analista na Companhia Iguaçu de Café Solúvel.
+Atualmente analista na Companhia Iguaçu de Café Solúvel.
 
 ## Formação Acadêmica
 - Estudante de Engenharia de Software na [UTFPR-CP](https://www.utfpr.edu.br/)
@@ -17,7 +17,7 @@ Desenvolvo soluções utilizando as seguintes tecnologias:
 Estou iniciando meus estudos em Python:
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
-Desejo aprender mais sobre:
+Desejo aprender sobre:
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 - ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
