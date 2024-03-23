@@ -24,4 +24,4 @@ Desejo aprender sobre:
 Você pode me encontrar nas seguintes redes sociais:
 - [Instagram](https://www.instagram.com/renangabrielb/)
 - [LinkedIn](https://www.linkedin.com/in/renan-gabriel-bueno-85b264285/)
-- Email: renangabrielb@gmail.com
+- Email: renangbueno@gmail.com
